@@ -1,3 +1,8 @@
+/*  Zach Czachura
+    9/8/2022
+    World Wrap
+*/
+
 // Initialize a variable for the x-location of the ball, start at 50
 var ballLoc = 50;
 

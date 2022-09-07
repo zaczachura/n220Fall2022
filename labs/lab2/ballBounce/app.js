@@ -1,3 +1,8 @@
+/*  Zach Czachura
+    9/8/2022
+    Ball Bounce
+*/
+
 // Initialize variables for speed in both directions
 var speedX = 5;
 var speedY = 5;

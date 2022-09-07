@@ -1,3 +1,8 @@
+/*  Zach Czachura
+    9/8/2022
+    Puck Side
+*/
+
 // Initialize a variable for the width of the canvas
 var w = 400;
 

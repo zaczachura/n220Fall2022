@@ -1,3 +1,8 @@
+/*  Zach Czachura
+    9/8/2022
+    Counter
+*/
+
 // Initialize a variable for the counter starting at 0
 var count = 0;
 

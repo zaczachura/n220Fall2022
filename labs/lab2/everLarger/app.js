@@ -1,3 +1,8 @@
+/*  Zach Czachura
+    9/8/2022
+    Ever Larger, Until Not
+*/
+
 // Initialize a variable for the diameter starting at 1
 var diameter = 1;
 
