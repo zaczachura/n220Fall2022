@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Color Mixer</title>
+    <style>
+        div {margin: 5px;}
+    </style>
+</head>
+<body>
+    <div id="example" style="height: 200px; width: 500px; background: rgb(0, 0, 0);"></div>
+    <div id="desc">current color: rgb(0, 0, 0)</div>
+    <div>Red:
+        <button class="color" data-inc="1" data-col="r">+1</button>
+        <button class="color" data-inc="5" data-col="r">+5</button>
+        <button class="color" data-inc="10" data-col="r">+10</button>
+    </div>
+    <div>Green: 
+        <button class="color" data-inc="1" data-col="g">+1</button>
+        <button class="color" data-inc="5" data-col="g">+5</button>
+        <button class="color" data-inc="10" data-col="g">+10</button>
+    </div>
+    <div>Blue: 
+        <button class="color" data-inc="1" data-col="b">+1</button>
+        <button class="color" data-inc="5" data-col="b">+5</button>
+        <button class="color" data-inc="10" data-col="b">+10</button>
+    </div>
+    
+    <script src="app.js"></script>
+</body>
+</html>
