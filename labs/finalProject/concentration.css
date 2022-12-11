@@ -1,0 +1,29 @@
+.container {
+    display: flex;
+    justify-content: center;            
+}
+
+.col {
+    float: left;
+}
+
+.card {
+    height: 100px;
+    width: 100px;
+    margin: 20px;
+    border: 1px solid black;
+}
+
+.output {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#win {
+    padding: 5px;
+}
+
+#playButton {
+    margin-left: 20px;
+}
